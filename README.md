@@ -1,5 +1,5 @@
 basic chat apllication.py is server
-import socket.py is client
+and import socket.py is client
 
 To use this chat application:
 
